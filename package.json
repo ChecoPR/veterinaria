@@ -25,13 +25,13 @@
     "@ng-bootstrap/ng-bootstrap": "^6.1.0",
     "bootstrap": "^4.4.0",
     "rxjs": "~6.5.4",
-    "saucelabs": "^4.3.0",
+    "saucelabs": "^7.2.2",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.7",
-    "@angular/cli": "~9.1.7",
+    "@angular/cli": "~16.1.4",
     "@angular/compiler-cli": "~9.1.9",
     "@types/node": "^12.11.1",
     "@types/jasmine": "~3.5.0",
